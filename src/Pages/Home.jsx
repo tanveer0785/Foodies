@@ -1,6 +1,4 @@
-import Hero from "../components/Hero";
-import About from "../components/About";
-import SpecialDishes from "../components/SpecialDishes";
+
 
 import {
   Star,
@@ -13,6 +11,9 @@ import {
   ArrowRight,
   Sparkles,
 } from "lucide-react";
+import SpecialDishes from "../components/SpecialDishes";
+import AboutPage from "./AboutPage";
+import Hero from "../Components/Hero";
 
 const Home = () => {
   return (
@@ -21,7 +22,7 @@ const Home = () => {
       <Hero />
 
       {/* ABOUT */}
-      <About />
+      <AboutPage />
 
       {/* SPECIAL DISHES */}
       <SpecialDishes />
