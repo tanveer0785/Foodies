@@ -1,4 +1,3 @@
-import MainLayout from "../layouts/MainLayout";
 import { useEffect, useState } from "react";
 
 const galleryImages = [
