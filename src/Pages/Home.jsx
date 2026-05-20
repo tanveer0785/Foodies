@@ -1,5 +1,3 @@
-
-
 import {
   Star,
   ChefHat,
@@ -11,7 +9,7 @@ import {
   ArrowRight,
   Sparkles,
 } from "lucide-react";
-import SpecialDishes from "../components/SpecialDishes";
+import SpecialDishes from "../Components/SpecialDishes";
 import AboutPage from "./AboutPage";
 import Hero from "../Components/Hero";
 

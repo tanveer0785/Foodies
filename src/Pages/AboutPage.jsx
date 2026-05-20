@@ -1,4 +1,4 @@
-import MainLayout from "../layouts/MainLayout";
+
 import { useEffect } from "react";
 
 const AboutPage = () => {
